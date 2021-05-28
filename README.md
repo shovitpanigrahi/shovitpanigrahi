@@ -10,5 +10,5 @@
 - 📫 How to reach me: [Twitter: @pshovit](https://twitter.com/pshovit) || Linkedin: [Shovit Panigrahi](https://www.linkedin.com/in/shovit-panigrahi-profile/)
 
 ### 🛠 Languages and Tools 🛠
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.11.0/devicon.min.css" />]
+[<img class="devicon-visualstudio-plain colored" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.11.0/devicon.min.css" />]
 
