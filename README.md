@@ -1,6 +1,6 @@
-### Hi there, I am Shovit 👋
+### Hey there👋, I am Shovit! 👦🏻
 
-  <a href="https://icons8.com/illustrations/author/5c07e68d82bcbc0092519bb6"></a>
+  
 - 🔭 I’m currently a final year CS student.
 - 🌱 I’m currently learning MERN and Data Structures.
 - 👯 I’m looking to collaborate on Web related projects.
@@ -9,4 +9,7 @@
 - 😄 Pronouns: He/His
 - 📫 How to reach me: [Twitter: @pshovit](https://twitter.com/pshovit) || Linkedin: [Shovit Panigrahi](https://www.linkedin.com/in/shovit-panigrahi-profile/)
 
+### 🛠 Languages and Tools 🛠
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]
+[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]
 
