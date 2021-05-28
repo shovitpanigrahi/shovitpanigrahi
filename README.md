@@ -15,6 +15,7 @@
 <p align="left"> 
   <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
   <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
+  <img src="https://img.icons8.com/plasticine/100/000000/module.png"/>
   <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
   <img src="https://img.icons8.com/color/48/000000/css3.png"/>
   <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
@@ -38,6 +39,9 @@
   <a href="mailto:panigrahishovit@gmail.com?subject=subject&cc=cc@gmail.com"><img src="https://img.icons8.com/fluent/48/000000/gmail--v2.png"/></a>
   
 </p>  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
