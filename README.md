@@ -10,5 +10,4 @@
 - 📫 How to reach me: [Twitter: @pshovit](https://twitter.com/pshovit) || Linkedin: [Shovit Panigrahi](https://www.linkedin.com/in/shovit-panigrahi-profile/)
 
 ### 🛠 Languages and Tools 🛠
-[<img class="devicon-visualstudio-plain colored" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.11.0/devicon.min.css" />]
-
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
