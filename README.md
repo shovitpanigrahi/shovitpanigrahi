@@ -3,10 +3,10 @@
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Shovit!</h1>
 
   
-- 🔭 I’m currently a final year CS student.
+- 🔭 I’m a final year CS student.
 - 🌱 I’m currently learning MERN and Data Structures.
 - 👯 I’m looking to collaborate on Projects.
-- 🤔 I’m looking for help with my programming skills.
+- 🤔 I’m seeking out help with my programming skills.
 - ⚡ I'll look forward to learn App development.
 - 😄 Pronouns: He/His.
 
