@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning MERN and Data Structures.
 - 👯 I’m looking to collaborate on Projects.
 - 🤔 I’m seeking out help with my programming skills.
-- ⚡ I'll look forward to learn App development.
+- ⚡ I fondly apticipate to learn App development.
 - 😄 Pronouns: He/His.
 
 ### Languages and Tools 🛠 
