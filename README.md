@@ -4,33 +4,7 @@
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Shovit!</h1>
 
   
-- 🔭 I’m a final year CS student.
-- 🌱 I’m currently learning MERN and Data Structures.
-- 👯 I’m looking to collaborate on Projects.
-- 🤔 I’m seeking out help with my programming skills.
-- ⚡ I fondly anticipate to learn App development.
-- 😄 Pronouns: He/His.
 
-### Languages and Tools 🛠 
-
-<p align="left"> 
-  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
-  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
-  <img src="https://img.icons8.com/plasticine/48/000000/module.png"/>
-  <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
-  <img src="https://img.icons8.com/color/48/000000/css3.png"/>
-  <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
-  <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
-  <img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
-  <img src="https://img.icons8.com/color/50/000000/git.png"/>
-  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
-  <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
-  <img src="https://img.icons8.com/color/48/000000/react-native.png"/>
-  <img src="https://img.icons8.com/color/48/000000/visual-studio.png"/>
-  <img src="https://img.icons8.com/officexs/48/000000/java-eclipse.png"/>
-  <img src="https://img.icons8.com/color/48/000000/office-365.png"/>
-  <img src="https://img.icons8.com/color/48/000000/linux.png"/> 
-</p>
 
 
 ### Connect with Me 🗨 
